@@ -1,0 +1,6 @@
+=encoding utf8
+=pod
+
+다 필요없고 read.pl만 건지자
+
+=cut
